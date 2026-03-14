@@ -1,13 +1,7 @@
 # End-to-End-Chest-Disease-Classification
-By [<b>Hema Kalyan Murapaka</b>](https://kalyanm45.github.io)
-
+By naitik taj
 Connect with me on social media and explore my work:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hemakalyan)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/KalyanM45)&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-Follow-03a57a?style=flat-square&logo=medium)](https://medium.com/@kalyan45)&nbsp;
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mhemakalyan)
-[![Sponsor Hema Kalyan Murapaka](https://img.shields.io/badge/Sponsor-Hema_Kalyan-28a745?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/KalyanMurapaka45)
 
 **Special Thanks to GitHub Sponsors**
 
@@ -40,7 +34,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/KalyanM45/End-to-End-Chest-Disease-Classification.git
+     git clone https://github.com/Naitik74600/End-to-End-Chest-Disease-Classification-main.git
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
@@ -83,14 +77,14 @@ If you prefer to use Docker, you can install and run the project using a Docker 
    - Open your terminal or command prompt.
    - Run the following command to pull the Docker image from DockerHub:
      ```
-     docker pull kalyan45/Chest-detection-app
+     docker pull Naitik74600/Chest-detection-app
      ```
      This command downloads the Docker image from the DockerHub.
 
 2. **Run the Docker Container**
    - Start the Docker container by running the following command. Adjust the port mapping as needed:
      ```
-     docker run -p 5000:5000 kalyan45/Chest-detection-app
+     docker run -p 5000:5000 Naitik74600/Chest-detection-app
      ```
      This command launches the project within a Docker container.
 
@@ -141,8 +135,8 @@ This project is licensed under the [Open Source Initiative (OSI)](https://openso
 
 ## Contact Details
 
-Hema Kalyan Murapaka - [kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)<br>
-
+naitik raj
+naitikraj74600@gmail.com
 
 ## Acknowledgements
 
